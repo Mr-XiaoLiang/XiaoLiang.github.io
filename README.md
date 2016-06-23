@@ -39,3 +39,5 @@
 
 友情联盟群：
 * [Android 自定义UI设计群 332139421](http://jq.qq.com/?_wv=1027&k=2JmRjRd)
+
+## 如有问题补充或者资源分享，欢迎Pull request（注意格式哦）!
