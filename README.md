@@ -33,6 +33,7 @@
  * [Android APP主题系统开发组合(3)](http://hukai.me/android-training-course-in-chinese/material/theme.html)
  * [Android APP主题系统开发组合(4)](http://blog.csdn.net/zhyooo123/article/details/6697186)
  * [FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout)
+ * [The beauty of Animation](https://github.com/hitherejoe/animate)
 
 --------------------
 
